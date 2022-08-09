@@ -1,0 +1,10 @@
+airtest
+numpy
+opencv-contrib-python
+Levenshtein
+onnxruntime
+pyclipper
+requests
+Shapely==1.7.1
+tqdm
+addict
